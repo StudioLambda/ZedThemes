@@ -1,0 +1,7 @@
+id = "lambda-studio-themes"
+name = "Lambda Studio Themes"
+version = "0.0.1"
+schema_version = 1
+authors = ["Erik C. Fores <soc@erik.cat>"]
+description = "Minimalist themes for zed editor"
+repository = "https://github.com/StudioLambda/ZedThemes"
